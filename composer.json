@@ -1,6 +1,13 @@
 {
-    "name": "kopokopo-example",
-    "description": "Simple SDK usage",
+    "name": "kopokopo/kopokopo-example",
+    "description": "Simple implementation",
+    "type": "project",
+    "authors": [
+        {
+            "name": "NicolletNjora",
+            "email": "nicollet.njora05@gmail.com"
+        }
+    ],
     "repositories": [
         {
             "type": "git",
@@ -12,10 +19,7 @@
         "kopokopo/kopokopo": "*"
     },
     "config":{
-    
         "secure-http":false
-    
     },
     "minimum-stability": "dev"
-    
 }
