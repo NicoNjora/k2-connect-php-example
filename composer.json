@@ -1,0 +1,21 @@
+{
+    "name": "kopokopo-example",
+    "description": "Simple SDK usage",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/NicoNjora/k2-connect-php"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "1.1.0",
+        "kopokopo/kopokopo": "*"
+    },
+    "config":{
+    
+        "secure-http":false
+    
+    },
+    "minimum-stability": "dev"
+    
+}
