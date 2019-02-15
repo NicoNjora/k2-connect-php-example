@@ -250,7 +250,7 @@
             "source": {
                 "type": "git",
                 "url": "git://github.com/NicoNjora/k2-connect-php",
-                "reference": "82446636018909cbb775e0d9f4adc3452fb1a7de"
+                "reference": "431358b46159f31c98afc75469e586570cdef944"
             },
             "require": {
                 "guzzlehttp/guzzle": "^6.3"
@@ -271,7 +271,8 @@
                     "email": "nicollet.njora05@gmail.com"
                 }
             ],
-            "time": "2019-02-14T07:39:31+00:00"
+            "description": "Kopokopo's php SDK",
+            "time": "2019-02-15T13:48:16+00:00"
         },
         {
             "name": "psr/http-message",
