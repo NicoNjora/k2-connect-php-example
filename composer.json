@@ -18,8 +18,8 @@
         "altorouter/altorouter": "1.1.0",
         "kopokopo/kopokopo": "*"
     },
-    "config":{
-        "secure-http":false
+    "config": {
+        "secure-http": false
     },
     "minimum-stability": "dev"
 }
